@@ -1,0 +1,165 @@
+[
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:09:38.233266"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:09:55.768462"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:11:47.936583"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:13:17.121135"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:24:55.336204"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:25:44.934694"
+  },
+  {
+    "status": "denied",
+    "name": null,
+    "confidence": "0.00",
+    "time": "2025-11-05T15:26:38.763880"
+  },
+  {
+    "status": "granted",
+    "name": "Harshi",
+    "confidence": "0.9008",
+    "time": "2025-11-05T15:30:57.921257"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.9347",
+    "time": "2025-11-05T15:31:52.586081"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8048",
+    "time": "2025-11-05T15:39:02.174695"
+  },
+  {
+    "status": "denied",
+    "name": "Unknown",
+    "confidence": "0.3051",
+    "time": "2025-11-05T15:39:24.145214"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.7786",
+    "time": "2025-11-05T15:39:38.674768"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.9097",
+    "time": "2025-11-05T15:43:35.056025"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8480",
+    "time": "2025-11-05T15:49:47.220327"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8598",
+    "time": "2025-11-05T15:53:39.830790"
+  },
+  {
+    "status": "granted",
+    "name": "Harshi",
+    "confidence": "0.8179",
+    "time": "2025-11-05T16:00:13.219894"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8500",
+    "time": "2025-11-05T16:04:13.117099"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8903",
+    "time": "2025-11-05T16:09:35.058666"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8994",
+    "time": "2025-11-05T16:11:42.801374"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.9533",
+    "time": "2025-11-05T16:15:00.040688"
+  },
+  {
+    "status": "granted",
+    "name": "Harshi",
+    "confidence": "0.8878",
+    "time": "2025-11-05T16:20:16.171289"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.8560",
+    "time": "2025-11-05T16:21:26.397054"
+  },
+  {
+    "status": "granted",
+    "name": "Harshitha",
+    "confidence": "0.9289",
+    "time": "2025-11-05T16:21:48.200361"
+  },
+  {
+    "status": "granted",
+    "name": "harshitha",
+    "confidence": "0.7594",
+    "time": "2025-11-05T16:28:49.876662"
+  },
+  {
+    "status": "granted",
+    "name": "Harshi",
+    "confidence": "0.9522",
+    "time": "2025-11-05T16:30:07.474267"
+  },
+  {
+    "status": "granted",
+    "name": "Harshini",
+    "confidence": "0.9348",
+    "time": "2025-11-05T16:32:22.644639"
+  },
+  {
+    "status": "granted",
+    "name": "harshitha",
+    "confidence": "0.8905",
+    "scores": {
+      "cosine": 0.8905,
+      "euclidean": 0.6812,
+      "manhattan": 

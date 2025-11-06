@@ -1,0 +1,8 @@
+deepface==0.0.93
+opencv-python==4.10.0.84
+numpy
+scikit-learn
+tqdm
+# For later phases (Flask/Tkinter)
+Flask
+# Tkinter ships with most CPython builds on Windows/macOS. On some Linux distros, install python3-tk via apt.
